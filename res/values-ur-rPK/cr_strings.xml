@@ -81,7 +81,7 @@
   <string name="remove_settings_summary_title">ترتیبات کا خلاصہ حذف کریں</string>
   <string name="remove_settings_summary_summary">ٹائل عنوانات کے نیچے خلاصہ ہٹائیں</string>
   <!-- Immersive Recents -->
-  <string name="immersive_recents_title">Immersive recents</string>
+  <string name="immersive_recents_title">حالیہ مستغرق</string>
   <string name="immersive_recents_summary">حالیہ سکرین کا منظر تبدیل کریں</string>
   <string name="immersive_recents_dialog_title">حالیہ منظر منتخب کریں</string>
   <string name="immersive_recents_default">معین شدہ</string>
@@ -93,7 +93,7 @@
   <string name="recents_omni_category">OmniSwitch</string>
   <!-- AOSP Recents -->
   <string name="aosp_first_time_title">حالیہ AOSP</string>
-  <string name="aosp_first_time_message">Immersive recents setting is overridden if the expanded desktop is enabled.</string>
+  <string name="aosp_first_time_message">جب توسیع شدہ ڈیسک ٹاپ کو فعال کیا جاتا ہے توحالیہ مستغرق کی ترتیب ختم ہو گئی ہے۔</string>
   <!-- Hide Apps from Recents -->
   <string name="hide_apps_from_recents_title">Hidden apps</string>
   <string name="hide_from_recents_add_app">Add App</string>
