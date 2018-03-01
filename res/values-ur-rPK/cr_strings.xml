@@ -19,27 +19,27 @@
   <!-- App Title -->
   <string name="crdroid_settings_title">سی آر ڈرائڈ کی ترتیبات</string>
   <string name="crdroid_settings_summary">Open Goodness</string>
-  <string name="crdroid_personalization_category">Personalization</string>
+  <string name="crdroid_personalization_category">ذاتی بنانا</string>
   <string name="crdroid_addons_category">اضافی خصوصیات</string>
   <!-- Personalization Categories -->
   <string name="button_title">بٹن</string>
   <string name="gestures_title">اشارے</string>
-  <string name="lockscreen_title">Lock Screen</string>
+  <string name="lockscreen_title">لاک سکرین</string>
   <string name="misc_title">متفرق</string>
-  <string name="navbar_title">Navigation</string>
+  <string name="navbar_title">سمت شناسی</string>
   <string name="notifications_title">اطلاعات</string>
   <string name="quicksettings_title">فوری ترتیبات</string>
-  <string name="recents_title">Recents Screen</string>
+  <string name="recents_title">حالیہ سکرین</string>
   <string name="sound_title">آواز</string>
-  <string name="statusbar_title">Status Bar</string>
-  <string name="display_title">Display</string>
-  <string name="animation_title">Animations</string>
-  <string name="ui_title">User Interface</string>
+  <string name="statusbar_title">اسٹیٹس بار</string>
+  <string name="display_title">نمائش</string>
+  <string name="animation_title">متحرک تصاویر</string>
+  <string name="ui_title">صارفی انٹرفیس</string>
   <!-- Power Menu -->
-  <string name="powermenu_title">Power Menu</string>
-  <string name="powermenu_summary">Customize power menu options</string>
+  <string name="powermenu_title">پاور مینو</string>
+  <string name="powermenu_summary">پاور مینو کے اختیارات کو اپنی مرضی کے مطابق بنانا</string>
   <!-- Color Picker -->
-  <string name="dialog_color_picker">Color Picker</string>
+  <string name="dialog_color_picker">رنگ اٹھانے والا</string>
   <string name="press_color_to_apply">Press on color below to apply</string>
   <string name="hex">Hex:</string>
   <string name="hex_hint">#ff000000</string>
