@@ -95,8 +95,8 @@
   <string name="aosp_first_time_title">حالیہ AOSP</string>
   <string name="aosp_first_time_message">جب توسیع شدہ ڈیسک ٹاپ کو فعال کیا جاتا ہے توحالیہ مستغرق کی ترتیب ختم ہو گئی ہے۔</string>
   <!-- Hide Apps from Recents -->
-  <string name="hide_apps_from_recents_title">Hidden apps</string>
-  <string name="hide_from_recents_add_app">Add App</string>
+  <string name="hide_apps_from_recents_title">چھپی ہوئی ایپس</string>
+  <string name="hide_from_recents_add_app">ایپ کا اضافہ کریں</string>
   <string name="hide_apps_from_recents_summary">Pick which apps to exclude from the recents panel</string>
   <!-- OmniSwitch Recents -->
   <string name="recents_use_omniswitch_title">Use for recents</string>
