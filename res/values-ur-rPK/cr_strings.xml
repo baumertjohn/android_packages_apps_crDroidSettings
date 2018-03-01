@@ -185,16 +185,16 @@
   <string name="qs_battery_easy_toggle_summary">بیٹری سیور بدلنے کیلئے ایک ٹیپ کے عمل کو فعال کریں</string>
   <!-- Location easy toggle -->
   <string name="qs_location_easy_toggle_title">جگہ کو آسانی سے بدلیں</string>
-  <string name="qs_location_easy_toggle_summary">Enable one tap action to toggle location</string>
+  <string name="qs_location_easy_toggle_summary">جگہ بدلنے کیلئے ایک ٹیپ کے عمل کو فعال کریں</string>
   <!-- Quick settings brightness slider -->
-  <string name="qs_brightness_slider_title">Brightness slider</string>
-  <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
+  <string name="qs_brightness_slider_title">چمک سلائیڈر</string>
+  <string name="qs_brightness_slider_summary">فوری ترتیبات کے پینل میں ایک چمک سلائیڈر دکھائیں</string>
   <!-- Quick settings brightness icon -->
-  <string name="brightness_icon_title">Auto brightness</string>
-  <string name="brightness_icon_summary">Show toggle for adaptive brightness near the slider</string>
+  <string name="brightness_icon_title">خودکار چمک</string>
+  <string name="brightness_icon_summary">سلائیڈر کے قریب حسب منشاء چمک کے لئے ٹوگل دکھائیں</string>
   <!-- Quick settings haptic feedback -->
-  <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-  <string name="quick_settings_vibrate_summary">Vibrate when touching tiles</string>
+  <string name="quick_settings_vibrate_title">چھونے پر وائبریٹ کرے</string>
+  <string name="quick_settings_vibrate_summary">ٹائلوں کو چھونے پر وائیبریٹ کرے</string>
   <!-- Force expanded notifications -->
   <string name="force_expanded_notifications_title">Force expanded notifications</string>
   <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
