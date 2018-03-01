@@ -70,16 +70,16 @@
   <string name="show_network_traffic_1500">1500 ms</string>
   <string name="show_network_traffic_2000">2000 ms</string>
   <string name="network_traffic_autohide">خود بخود چُھپنا</string>
-  <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-  <string name="network_traffic_autohide_threshold">Inactivity threshold</string>
-  <string name="network_traffic_hidearrow">Hide arrows</string>
-  <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+  <string name="network_traffic_autohide_summary">جب کوئی سرگرمی نہ ہو تو ٹریفک کی نگرانی چھپا دیں</string>
+  <string name="network_traffic_autohide_threshold">غیر فعالی کی حد</string>
+  <string name="network_traffic_hidearrow">تیر چھپائیں</string>
+  <string name="network_traffic_hidearrow_summary">نیٹ ورک ٹریفک اشارے کے تیروں کو چھپائیں</string>
   <!-- Settings suggestions  -->
-  <string name="disable_settings_suggestions_title">Disable suggestions</string>
-  <string name="disable_settings_suggestions_summary">Disable suggestions on the dashboard</string>
+  <string name="disable_settings_suggestions_title">تجاویز غیر فعال بنائیں</string>
+  <string name="disable_settings_suggestions_summary">ڈیش بورڈ پر تجاویز کو غیر فعال بنائیں</string>
   <!-- Settings summary  -->
-  <string name="remove_settings_summary_title">Remove settings summary</string>
-  <string name="remove_settings_summary_summary">Remove summary underneath tile titles</string>
+  <string name="remove_settings_summary_title">ترتیبات کا خلاصہ حذف کریں</string>
+  <string name="remove_settings_summary_summary">ٹائل عنوانات کے نیچے خلاصہ ہٹائیں</string>
   <!-- Immersive Recents -->
   <string name="immersive_recents_title">Immersive recents</string>
   <string name="immersive_recents_summary">Change the view of the recents screen</string>
