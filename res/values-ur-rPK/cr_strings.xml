@@ -82,17 +82,17 @@
   <string name="remove_settings_summary_summary">ٹائل عنوانات کے نیچے خلاصہ ہٹائیں</string>
   <!-- Immersive Recents -->
   <string name="immersive_recents_title">Immersive recents</string>
-  <string name="immersive_recents_summary">Change the view of the recents screen</string>
-  <string name="immersive_recents_dialog_title">Select recents view</string>
-  <string name="immersive_recents_default">Default</string>
-  <string name="immersive_recents_fullscreen">Fullscreen</string>
-  <string name="immersive_recents_statusbar">Statusbar only</string>
-  <string name="immersive_recents_navbar">Navbar only</string>
+  <string name="immersive_recents_summary">حالیہ سکرین کا منظر تبدیل کریں</string>
+  <string name="immersive_recents_dialog_title">حالیہ منظر منتخب کریں</string>
+  <string name="immersive_recents_default">معین شدہ</string>
+  <string name="immersive_recents_fullscreen">مکمل سکرین</string>
+  <string name="immersive_recents_statusbar">صرف سٹیٹس بار</string>
+  <string name="immersive_recents_navbar">صرف نیوبار</string>
   <!-- Recents categories -->
   <string name="recents_default_category">AOSP</string>
   <string name="recents_omni_category">OmniSwitch</string>
   <!-- AOSP Recents -->
-  <string name="aosp_first_time_title">AOSP recents</string>
+  <string name="aosp_first_time_title">حالیہ AOSP</string>
   <string name="aosp_first_time_message">Immersive recents setting is overridden if the expanded desktop is enabled.</string>
   <!-- Hide Apps from Recents -->
   <string name="hide_apps_from_recents_title">Hidden apps</string>
