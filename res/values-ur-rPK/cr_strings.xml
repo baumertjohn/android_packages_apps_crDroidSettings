@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
   <string name="crdroid_settings_title">سی آر ڈرائڈ کی ترتیبات</string>
-  <string name="crdroid_settings_summary">Open Goodness</string>
+  <string name="crdroid_settings_summary">اچھائی کھولیں</string>
   <string name="crdroid_personalization_category">ذاتی بنانا</string>
   <string name="crdroid_addons_category">اضافی خصوصیات</string>
   <!-- Personalization Categories -->
@@ -40,22 +40,22 @@
   <string name="powermenu_summary">پاور مینو کے اختیارات کو اپنی مرضی کے مطابق بنانا</string>
   <!-- Color Picker -->
   <string name="dialog_color_picker">رنگ اٹھانے والا</string>
-  <string name="press_color_to_apply">Press on color below to apply</string>
+  <string name="press_color_to_apply">لاگو کرنے کے لیے نیچے دیئے گئے رنگ کو دبائیں</string>
   <string name="hex">Hex:</string>
   <string name="hex_hint">#ff000000</string>
-  <string name="set">Set</string>
+  <string name="set">ترتیب</string>
   <string name="color_default">طے شدہ</string>
   <!-- General strings -->
   <string name="ok">OK</string>
-  <string name="reset">Reset</string>
+  <string name="reset">دوبارہ ترتیب دیں</string>
   <string name="cancel">منسوخ</string>
   <string name="save">محفوظ</string>
   <!-- Misc strings -->
-  <string name="lockclock_title">Clock widget</string>
-  <string name="lockclock_summary">View or change how the \'cLock\' widget will display</string>
+  <string name="lockclock_title">گھڑی ویجیٹ</string>
+  <string name="lockclock_summary">دیکھیں یا تبدیل کریں کیسے ’گھڑی‘ کا ویجیٹ ظاہر ہو گا</string>
   <!-- Network traffic -->
-  <string name="network_traffic_title">Network traffic</string>
-  <string name="network_traffic_summary">Display and customize network traffic monitor</string>
+  <string name="network_traffic_title">نیٹ ورک ٹریفک</string>
+  <string name="network_traffic_summary">نیٹ ورک ٹریفک کی نگرانی کو طاہر اور اپنے حساب سے تبدیل کریں</string>
   <string name="show_network_traffic_state">Status bar traffic monitor</string>
   <string name="show_network_traffic_unit">Display unit</string>
   <string name="show_network_traffic_frequency">Update interval</string>
